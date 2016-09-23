@@ -43,6 +43,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="myLabel" destination="TjC-df-zwB" id="DKR-9G-xeU"/>
                         <outlet property="myPicker" destination="EWr-Kv-xaQ" id="19N-nU-CkB"/>
                     </connections>
                 </viewController>
